@@ -1,1 +1,1 @@
-This is my first pet project: a digital clock  
+This is my pet project: a digital clock  
